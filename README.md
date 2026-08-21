@@ -18,6 +18,25 @@ I focused on the integration and optimisation of the flow-sensing system. This i
 - Collecting and analysing experimental data
 - Identifying sources of measurement error and inconsistency
 - Optimising sensor and system settings to improve measurement reliability
+## Project Visuals
+
+### Experimental Setup
+
+The experimental setup used to test the in-line flow sensor within the perfusion bioreactor system.
+
+![Experimental setup](./figures/experimental-setup.png)
+
+### Flow Sensor Optimisation
+
+Comparison of flow profiles before and after optimisation, showing improved stability and reduced signal distortion following sensor and system configuration adjustments.
+
+![Flow sensor optimisation](./figures/flow-sensor-optimisation.png)
+
+### Experimental Results
+
+Average standard deviation across experimental conditions, showing the improvement in measurement precision across the experiments.
+
+![Experimental results](./figures/experimental-results.png)
 
 ## Key Findings
 
