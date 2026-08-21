@@ -49,7 +49,7 @@ The optimised configuration improved real-time flow measurement accuracy by appr
 ## Project Materials
 
 - [View Project Report](./precision-nutrient-delivery-bioreactor-report.pdf)
-- [View Project Presentation](./precision-nutrient-delivery-project-presentation.pptx)
+- [View Project Presentation](./precision-nutrient-delivery-project-presentation.pdf)
 
 ## Academic Project
 
