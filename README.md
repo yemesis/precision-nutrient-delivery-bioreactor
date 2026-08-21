@@ -46,9 +46,10 @@ The optimised configuration improved real-time flow measurement accuracy by appr
 - Experimental measurement equipment
 - Microsoft Excel
 
-## Project Report
+## Project Materials
 
-The full project report is available in this repository.
+- [View Project Report](./precision-nutrient-delivery-bioreactor-report.pdf)
+- [View Project Presentation](./precision-nutrient-delivery-project-presentation.pptx)
 
 ## Academic Project
 
