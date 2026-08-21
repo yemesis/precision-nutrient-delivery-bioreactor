@@ -23,7 +23,6 @@ I focused on the integration and optimisation of the flow-sensing system. This i
 ### Experimental Setup
 
 The experimental setup used to test the in-line flow sensor within the perfusion bioreactor system.
-
 ![Experimental setup](./figures/experimental-setup.png)
 
 ### Flow Sensor Optimisation
